@@ -4,7 +4,7 @@
 
 Hey there, I'm Arc! I make random things that sometimes might be useful.
 
-**Languages I Know**: Java, Javascript, Rust, Kotlin, Python, Scratch
+**Languages I Know**: Java, Rust, Javascript, Kotlin, Python, Scratch
 
 ## My Stats
 
